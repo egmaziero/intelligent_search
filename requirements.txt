@@ -1,0 +1,15 @@
+-e .
+six>=1.10.0
+bumpversion>=0.5.3
+click>=3.3
+jupyter>=1.0.0
+pep8>=1.7.0
+virtualenv>=15.0.1
+nltk>=3.2.1
+numpy>=1.11.0
+pytest>=2.6.4
+pytest-cov>=1.8.1
+mock>=2.0.0
+nlpnet>=1.2.1
+git+ssh://git@bitbucket.org/booteam/blabs-common-lib@v0.2.0#egg=blabs_common
+git+ssh://git@bitbucket.org/booteam/blabs-nlp-lib@v0.4.3#egg=blabs_nlp

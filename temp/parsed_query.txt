@@ -1,0 +1,1 @@
+(ROOT (S (NP (N' (N' (N celular) (A lindo)) (PP (P com) (NP (N' (N' (N tela) (A forte)) (PP (P para) (NP (N natação))))))))))
